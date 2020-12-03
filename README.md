@@ -1,3 +1,3 @@
-# Ramen Data Analisys
+# Ramen Data Analysis
 <br>
-Analisys of ramen ratings dataset from <a href="https://www.kaggle.com" target="_top">Kaggle</a>.
+Analysis of ramen ratings dataset from <a href="https://www.kaggle.com" target="_top">Kaggle</a>.
