@@ -7,9 +7,9 @@ Analysis of ramen ratings dataset from <a href="https://www.kaggle.com" target="
 * Number of participants in each country
 * Top 10 best Brands
 * Top 10 worst Brands
-* Procentage of good and bad ramen
+* Percentage of good and bad ramen
 * Number of Bad and Good ratings in each serving style
-* Number of brands serving ramen in specyfic style
+* Number of brands serving ramen in specific style
 * Elbow Method
 * K-means clustering
 
@@ -26,3 +26,8 @@ Note that this dataset does not include the text of the reviews themselves. For 
 ## Acknowledgements
 
 This dataset is republished as-is from the original BIG LIST on https://www.theramenrater.com/.
+
+## Inspiration
+
+* What are the best ramen brands?
+* Prediction of ramen ratings.
